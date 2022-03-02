@@ -1,1 +1,1 @@
-# test
+operacje na pliku z liczbami
