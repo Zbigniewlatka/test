@@ -6,7 +6,7 @@ let
 
 let
   sumNums = sum(nums)
-  average = sumNums / float(nums.len)
+  average = (sumNums / float(nums.len)).round(2)
 
 echo sumNums
 echo average
